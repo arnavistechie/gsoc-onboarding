@@ -7,6 +7,7 @@ import cats.data.NonEmptyList
 val allContributors = NonEmptyList.of(
   synan_mannan,
   antoniojimeneznieto,
+  `tanmay_008`,
   `typelevel-bot`,
   `im-vedant`,
   abby_ql,
